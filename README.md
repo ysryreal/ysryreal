@@ -8,4 +8,4 @@ Here are some of my other skills:
 - JS (1 year)
 
 # Contact
-contact me via my discord (@_ysry_) or my email (ysry_studio@gmail.com)
+contact me via my discord (@ysry  <- has underscores on both sides) or my email (ysry_studio@gmail.com)
